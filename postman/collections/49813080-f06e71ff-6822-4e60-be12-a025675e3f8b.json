@@ -9,7 +9,7 @@
 			"name": "customs",
 			"item": [
 				{
-					"name": "New Request",
+					"name": "Test Request",
 					"id": "49813080-c968b431-62c8-44b1-86de-c520f72de6cf",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
